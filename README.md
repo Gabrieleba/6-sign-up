@@ -7,9 +7,9 @@
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at https://front-end-by-rimantas.github.io/18b-grupe-portfolio/
+Site published at https://github.com/Gabrieleba/6-sign-up
 
-Design: [Mitech portfolio template](https://demo.hasthemes.com/mitech-preview/index-infotechno.html)
+Design: [Sign up model](https://gabrieleba.github.io/6-sign-up/)
 
 
 ## Project features
@@ -18,4 +18,4 @@ Design: [Mitech portfolio template](https://demo.hasthemes.com/mitech-preview/in
 - background image
 
 ## Authors
-[Rimantas](https://github.com/belauzas)
+[Gabrielė](https://github.com/Gabrieleba)
