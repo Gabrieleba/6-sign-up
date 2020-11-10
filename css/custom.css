@@ -1,9 +1,23 @@
 body {
+    background-color: #42aec3;
 
 }
     .container {
+        display: inline-block;
+        width: 800px;
+        margin-top: 100px;
+        margin-left: calc((100% - 800px) / 2);
+        background-color: white;
 
     }
+        .left-column {
+            display: inline-block;
+            width: 40%;
+            float: left;
+            margin-top: 20px;
+            background-color: blue;
+
+        }
         .page-title {
 
         }
@@ -20,6 +34,11 @@ body {
 
                 }
         .right-column {
+            display: inline-block;
+            width: 60%;
+            float: left;
+            padding: 60px;
+            background-color: aliceblue;
 
         }
             .close {
