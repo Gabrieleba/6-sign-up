@@ -1,13 +1,11 @@
 .form {
     display: inline-block;
     width: 100%;
-
 }
     .form-row{
         display: inline-block;
         width: 100%;
         margin-bottom: 30px;
-
     }
         .form-row:last-of-type{
             margin-bottom: 0px;
@@ -25,6 +23,11 @@
             width: 100%;
             font-size: 18px;
             line-height: 25px;
+            border: none;
+            border-bottom: 1px solid #777;
+        }
+        .input:focus {
+            outline: 3px solid #0069ba;
         }
         .form-row > .text {
             display: inline-block;
@@ -39,3 +42,6 @@
             font-size: 18px;
             color: #0069ba
         }
+            .form-row > .link:hover {
+                color: red;
+            }
